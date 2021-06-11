@@ -2,3 +2,5 @@
 https://medium.com/coders-camp/20-machine-learning-projects-on-nlp-582effe73b9c
 
 https://machinelearningknowledge.ai/machine-learning-projects-in-python-with-code-github/
+
+https://www.tutorialspoint.com/machine_learning_with_python/index.htm
