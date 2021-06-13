@@ -6,7 +6,7 @@ https://machinelearningknowledge.ai/machine-learning-projects-in-python-with-cod
 https://www.tutorialspoint.com/machine_learning_with_python/index.htm
 
 
-Dive into Machine Learning Creative Commons License Awesome
+Dive into Machine Learning 
 
 You're new to Machine Learning.
 You know Python. (At least the basics! If you want to learn more Python, try this)
