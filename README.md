@@ -7,14 +7,10 @@ https://www.tutorialspoint.com/machine_learning_with_python/index.htm
 
 
 Dive into Machine Learning Creative Commons License Awesome
-Hi there! This guide is for you:
 
 You're new to Machine Learning.
 You know Python. (At least the basics! If you want to learn more Python, try this)
 I learned Python by hacking first, and getting serious later. I wanted to do this with Machine Learning. If this is your style, join me in getting a bit ahead of yourself.
-
-Let's get started
-I suggest you get your feet wet to start. You'll boost your confidence.
 
 Tools you'll need
 Python. Python 3 is the best option.
@@ -32,8 +28,6 @@ Let's go!
 Learn how to use IPython Notebook (5-10 minutes). (You can learn by screencast instead.)
 
 Now, follow along with this brief exercise (10 minutes): An introduction to machine learning with scikit-learn. Do it in ipython or IPython Notebook. It'll really boost your confidence.
-
-I'll wait.
 
 What just happened?
 You just classified some hand-written digits using scikit-learn. Neat huh?
@@ -109,8 +103,7 @@ A Gallery of Interesting IPython notebooks (wiki page on GitHub): Statistics, Ma
 Fabian Pedregosa's larger, automatic gallery
 Know another great notebook? Please submit a PR!
 
-Immerse yourself
-Now you should be hooked, and hungry to learn more. Pick one of the courses below and start on your way.
+ Pick one of the courses below and start on your way.
 
 Recommended course: Prof. Andrew Ng's Machine Learning on Coursera
 Prof. Andrew Ng's Machine Learning is a popular and esteemed free online course. I've seen it recommended often. And emphatically.
