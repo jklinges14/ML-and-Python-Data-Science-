@@ -8,8 +8,6 @@ https://www.tutorialspoint.com/machine_learning_with_python/index.htm
 
 Dive into Machine Learning 
 
-You're new to Machine Learning.
-
 Tools you'll need
 Python. Python 3 is the best option.
 IPython and the Jupyter Notebook. (FKA IPython and IPython Notebook.)
@@ -20,9 +18,9 @@ scikit-learn
 matplotlib
 You can install Python 3 and all of these packages in a few clicks with the Anaconda Python distribution. Anaconda is popular in Data Science and Machine Learning communities.
 
-Learn how to use IPython Notebook (5-10 minutes). (You can learn by screencast instead.)
+Learn how to use IPython Notebook (5-10 minutes). 
 
-scikit-learn is the go-to library for machine learning in Python. It's used widely. Machine learning is hard. You'll be glad your tools are easy to work with.
+scikit-learn is the go-to library for machine learning in Python. It's used widely. 
 
 I encourage you to look at the scikit-learn homepage and spend about 5 minutes looking over the names of the strategies (Classification, Regression, etc.), and their applications. Don't click through yet! Just get a glimpse of the vocabulary.
 
@@ -32,12 +30,7 @@ Let's learn a bit more about Machine Learning, and a couple of common ideas and 
 
 A Visual Introduction to Machine Learning, Part 1
 
-It won't take long. It's a beautiful introduction ... Try not to drool too much!
-
 A Few Useful Things to Know about Machine Learning
-OK. Let's dive deeper.
-
-Read "A Few Useful Things to Know about Machine Learning" by Prof. Pedro Domingos. It's densely packed with valuable information, but not opaque. The author understands that there's a lot of "black art" and folk wisdom, and they invite you in.
 
 What has the most impact in Machine Learning
 
