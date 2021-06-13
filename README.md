@@ -22,15 +22,7 @@ scikit-learn
 matplotlib
 You can install Python 3 and all of these packages in a few clicks with the Anaconda Python distribution. Anaconda is popular in Data Science and Machine Learning communities.
 
-If you're using Python 2.7, don't worry. You don't have to migrate to Python 3 just for this guide. Also, if you're using pip/virtualenv instead of Anaconda, that's alright too! And re: installing packages, this is a helpful doc: conda vs. pip vs. virtualenv
-
-Let's go!
 Learn how to use IPython Notebook (5-10 minutes). (You can learn by screencast instead.)
-
-Now, follow along with this brief exercise (10 minutes): An introduction to machine learning with scikit-learn. Do it in ipython or IPython Notebook. It'll really boost your confidence.
-
-What just happened?
-You just classified some hand-written digits using scikit-learn. Neat huh?
 
 scikit-learn is the go-to library for machine learning in Python. It's used widely. Machine learning is hard. You'll be glad your tools are easy to work with.
 
@@ -79,13 +71,7 @@ Download the "Starting Simple" episode, and listen to that soon. It supports wha
 Then, over time, you can listen to the entire podcast series (start from the beginning).
 Want to subscribe to more podcasts? Here's a good listicle of suggestions, and another.
 
-OK! Take a break, come back refreshed.
-
-Play to learn
-Next, pick one or two of these IPython Notebooks and play along.
-
-Face Recognition on a subset of the Labeled Faces in the Wild
-Machine Learning from Disaster: Using Titanic data, "Demonstrates basic data munging, analysis, and visualization techniques. Shows examples of supervised machine learning techniques."
+Face Recognition on a subset of the Labeled Faces in the WildMachine Learning from Disaster: Using Titanic data, "Demonstrates basic data munging, analysis, and visualization techniques. Shows examples of supervised machine learning techniques."
 Election Forecasting: A replication of the model Nate Silver used to make predictions about the 2012 US Presidential Election for the New York Times.
 An example Machine Learning notebook: "let's pretend we're working for a startup that just got funded to create a smartphone app that automatically identifies species of flowers from pictures taken on the smartphone. We've been tasked by our head of data science to create a demo machine learning model that takes four measurements from the flowers (sepal length, sepal width, petal length, and petal width) and identifies the species based on those measurements alone."
 ClickSecurity's "data hacking" series (thanks hummus!)
@@ -220,15 +206,6 @@ Competitions and challenges are just one way to practice. You shouldn't limit yo
 
 Here's a complementary way to practice: do practice studies.
 
-Ask a question. Start your own study. The "most important thing in data science is the question" (Dr. Jeff T. Leek). So start with a question. Then, find real data. Analyze it. Then ...
-Communicate results. When you have a novel finding, reach out for peer review.
-Fix issues. Learn. Share what you learn.
-And repeat. Re-phrasing this, it fits with the scientific method: formulate a question (or problem statement), create a hypothesis, gather data, analyze the data, and communicate results. (You should watch this video about the scientific method in data science, and/or read this article.)
-
-How can you come up with interesting questions? Here's one way. Every Sunday, browse datasets and write down some questions. Also, sign up for Data is Plural, a newsletter of interesting datasets; look at these, datasets, and write down questions. Stay curious. When a question inspires you, start a study.
-
-This advice, to do practice studies and learn from peer review, is based on a conversation with Dr. Randal S. Olson. Here's more advice from Olson, quoted with permission:
-
 I think the best advice is to tell people to always present their methods clearly and to avoid over-interpreting their results. Part of being an expert is knowing that there's rarely a clear answer, especially when you're working with real data.
 
 As you repeat this process, your practice studies will become more scientific, interesting, and focused. The most important part of this process is peer review.
@@ -251,7 +228,6 @@ Machine Learning can be powerful, but it is not magic.
 Whenever you apply Machine Learning to solve a problem, you are going to be working in some specific problem domain. To get good results, you or your team will need "substantive expertise" AKA "domain knowledge." Learn what you can, for yourself... But you should also collaborate. You'll have better results if you collaborate with domain experts. (What's a domain expert? See the Wikipedia entry, or c2 wiki's rather subjective but useful blurb.)
 
 🙇 A note about Machine Learning and User Experience (UX)
-I couldn't say it better:
 
 Machine learning won’t figure out what problems to solve. If you aren’t aligned with a human need, you’re just going to build a very powerful system to address a very small—or perhaps nonexistent—problem.
 
