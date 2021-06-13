@@ -9,8 +9,6 @@ https://www.tutorialspoint.com/machine_learning_with_python/index.htm
 Dive into Machine Learning 
 
 You're new to Machine Learning.
-You know Python. (At least the basics! If you want to learn more Python, try this)
-I learned Python by hacking first, and getting serious later. I wanted to do this with Machine Learning. If this is your style, join me in getting a bit ahead of yourself.
 
 Tools you'll need
 Python. Python 3 is the best option.
